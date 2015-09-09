@@ -1,6 +1,6 @@
 {
   "name": "bootstrap-3-card",
-  "version": "0.1.0",
+  "version": "0.1.1",
   "authors": [
     "Martin Bean <martin@martinbean.co.uk>"
   ],
@@ -14,5 +14,8 @@
   "ignore": [
     "**/.*",
     "bower_components"
-  ]
+  ],
+  "dependencies": {
+    "bootstrap-3-card": "~0.1.1"
+  }
 }
