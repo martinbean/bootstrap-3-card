@@ -17,7 +17,7 @@ First you will need to import it using (preferably) [npm](https://www.npmjs.com/
 
     $ npm install bootstrap-3-card --save-dev
 
-There is also a (Bower)[https://bower.io/] package registered if you still use
+There is also a [Bower](https://bower.io/) package registered if you still use
 that package manager:
 
     $ bower install bootstrap-3-card
